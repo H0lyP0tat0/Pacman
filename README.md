@@ -1,4 +1,4 @@
-English:
+# English:
 
 # Pacman, version 1.0
 ### Made by: Jan Fojtík
@@ -60,7 +60,7 @@ make
 - pressing the H key forces the Win
 
 
-Czech:
+# Czech:
 
 # Pacman, version 1.0
 ### Made by: Jan Fojtík
